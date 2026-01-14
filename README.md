@@ -1,3 +1,5 @@
+i am create a free website and application play store 
+
 # Here's a simple, responsive HTML homepage for Naresh Vekta General Store. Copy-paste this code into a file named index.html and open it in any browser.<!DOCTYPE html>
 <html lang="en">
 <head>
